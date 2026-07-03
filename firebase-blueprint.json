@@ -1,0 +1,18 @@
+{
+  "collections": {
+    "users": {
+      "fields": {
+        "profile": { "type": "map" },
+        "settings": { "type": "map" },
+        "workoutPlan": { "type": "map" },
+        "mealPlan": { "type": "map" },
+        "waterLogs": { "type": "array" },
+        "weightLogs": { "type": "array" },
+        "stepLogs": { "type": "array" },
+        "chatHistory": { "type": "array" },
+        "currentStepsToday": { "type": "number" },
+        "updatedAt": { "type": "timestamp" }
+      }
+    }
+  }
+}

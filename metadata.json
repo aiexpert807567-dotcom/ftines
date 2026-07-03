@@ -1,0 +1,6 @@
+{
+  "name": "FitGen AI",
+  "description": "FitGen AI – Personal Fitness Coach, a modern Android-inspired fitness app featuring personalized AI workouts, customized meal planners, step tracking, BMI calculation, water logging, and interactive AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
